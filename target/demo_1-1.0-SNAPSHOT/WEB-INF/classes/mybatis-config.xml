@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <properties resource="jdbc.properties"/>
+    <!--使用别名，可以提高开发效率，简化配置。-->
+    <typeAliases>
+        <package name="com.hnust.entity"/>
+    </typeAliases>
+    <!-- mybatis配置类可不要，此处仅因为不加上该配置类dao.xml设置resultmap会报红-->
+<!--    &lt;!&ndash;-->
+<!--       environments：配置数据库连接环境信息。可以配置多个environment，通过default属性切换不同的environment-->
+<!--       &ndash;&gt;-->
+<!--    <environments default="development">-->
+<!--        <environment id="development">-->
+<!--            <transactionManager type="JDBC"/>-->
+<!--            <dataSource type="POOLED">-->
+<!--                &lt;!&ndash;数据库连接信息&ndash;&gt;-->
+<!--                <property name="driver" value="${mysql.driver}"/>-->
+<!--                <property name="url" value="${mysql.url}"/>-->
+<!--                <property name="username" value="${mysql.username}"/>-->
+<!--                <property name="password" value="${mysql.password}"/>-->
+<!--            </dataSource>-->
+<!--        </environment>-->
+<!--    </environments>-->
+<!--    <mappers>-->
+<!--        &lt;!&ndash;Mapper代理方式&ndash;&gt;-->
+<!--        <package name="com.hnust.dao"/>-->
+<!--    </mappers>-->
+</configuration>

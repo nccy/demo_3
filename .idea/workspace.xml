@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="demo_1:war" />
+      <artifact name="demo_1:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cac3e703-7db8-4f6b-9ba1-d055c73947bf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Maven\apache-maven-3.9.0\mvn_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.9.0" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.9.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2NH66Sh3OB11MHx0HTAR4JR6uFU" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowCommit.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/IEDAUltimate/code/demo_1/src/main/webapp/static/image",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.445977",
+    "settings.editor.selected.configurable": "spring",
+    "spring.configuration.checksum": "f284defa7e630cca70499d4a26c7f0f0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IEDAUltimate\code\demo_1\src\main\webapp\static\image" />
+      <recent name="F:\IEDAUltimate\code\demo_1\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IEDAUltimate\code\demo_1\src\main\webapp\static" />
+      <recent name="F:\IEDAUltimate\code\demo_1\src\main\webapp\image" />
+      <recent name="F:\IEDAUltimate\code\demo_1\src\main\webapp\WEB-INF" />
+      <recent name="F:\IEDAUltimate\code\demo_1\src\main\webapp\WEB-INF\css" />
+      <recent name="F:\IEDAUltimate\code\demo_1\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hnust.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.87">
+    <configuration name="DemoTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.testSelectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest" />
+      <option name="METHOD_NAME" value="testSelectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.testSelectById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest" />
+      <option name="METHOD_NAME" value="testSelectById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.testSelectByscName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest" />
+      <option name="METHOD_NAME" value="testSelectByscName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.testschoolById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest" />
+      <option name="METHOD_NAME" value="testschoolById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.87" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.87" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="demo_1:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <file path="$PROJECT_DIR$/../save/images">
+          <settings>
+            <option name="CONTEXT_PATH" value="/images" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="5a032276-2e0a-45c6-a237-e7cf3b36cdbf" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60688" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="demo_1:war" />
+          <artifact name="demo_1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DemoTest.testSelectById" />
+      <item itemvalue="JUnit.DemoTest.testschoolById" />
+      <item itemvalue="JUnit.DemoTest.testSelectByscName" />
+      <item itemvalue="JUnit.DemoTest.testInsert" />
+      <item itemvalue="JUnit.DemoTest.testSelectAll" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.87" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DemoTest.testschoolById" />
+        <item itemvalue="JUnit.DemoTest.testSelectById" />
+        <item itemvalue="JUnit.DemoTest.testSelectAll" />
+        <item itemvalue="JUnit.DemoTest.testSelectByscName" />
+        <item itemvalue="JUnit.DemoTest.testInsert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cac3e703-7db8-4f6b-9ba1-d055c73947bf" name="Changes" comment="" />
+      <created>1679308485049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679308485049</updated>
+      <workItem from="1679308486195" duration="6285000" />
+      <workItem from="1679318326265" duration="658000" />
+      <workItem from="1679323619739" duration="12000" />
+      <workItem from="1679492089059" duration="5437000" />
+      <workItem from="1679530073215" duration="1119000" />
+      <workItem from="1679532039660" duration="1263000" />
+      <workItem from="1679533334119" duration="577000" />
+      <workItem from="1679534763889" duration="1408000" />
+      <workItem from="1679578195587" duration="665000" />
+      <workItem from="1679579621363" duration="5197000" />
+      <workItem from="1679624895844" duration="918000" />
+      <workItem from="1679626678109" duration="1246000" />
+      <workItem from="1679730182925" duration="3106000" />
+      <workItem from="1679836174312" duration="4057000" />
+      <workItem from="1680095892546" duration="838000" />
+      <workItem from="1680096742535" duration="4510000" />
+      <workItem from="1680135201097" duration="5196000" />
+      <workItem from="1680173061927" duration="9420000" />
+      <workItem from="1680227665124" duration="20596000" />
+      <workItem from="1680261540727" duration="2176000" />
+      <workItem from="1680313908293" duration="6233000" />
+      <workItem from="1680320161578" duration="2482000" />
+      <workItem from="1680347771745" duration="6478000" />
+      <workItem from="1680357980072" duration="255000" />
+      <workItem from="1680363171081" duration="648000" />
+      <workItem from="1680400584206" duration="10024000" />
+      <workItem from="1680412135112" duration="12000" />
+      <workItem from="1680412196285" duration="979000" />
+      <workItem from="1680413194441" duration="651000" />
+      <workItem from="1680483129257" duration="1345000" />
+      <workItem from="1680498987274" duration="622000" />
+      <workItem from="1680501174020" duration="7140000" />
+      <workItem from="1680571144945" duration="770000" />
+      <workItem from="1680572287464" duration="24000" />
+      <workItem from="1680739226471" duration="1319000" />
+      <workItem from="1680740558051" duration="4744000" />
+      <workItem from="1680749563582" duration="5409000" />
+      <workItem from="1680791694522" duration="79000" />
+      <workItem from="1680792653651" duration="1489000" />
+      <workItem from="1680794215325" duration="1819000" />
+      <workItem from="1680851165774" duration="1760000" />
+      <workItem from="1681012334210" duration="456000" />
+      <workItem from="1681106092326" duration="900000" />
+      <workItem from="1681107480482" duration="4449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
